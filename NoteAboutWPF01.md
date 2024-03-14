@@ -4,7 +4,7 @@
           이벤트는 그것을 선언한 클래스나 객체의 외부에서 직접 발생시킬 수 없고, 오직 그 클래스나 객체 내부에서만 발생시킬 수 있습니다(캡슐화).
 - `델리게이트`: 메서드에 대한 참조를 보유하는 타입이며 델리게이트타입의 변수에 메서드를 할당해 그 변수를 통해 메서드를 호출할 수 있습니다.
 
-<img src="https://github.com/jay6366/DevNote/assets/89118231/2c838cb0-fe4d-49ad-a023-ad0ebd25b03f" width="150" Height="900"/>
+<img src="https://github.com/jay6366/DevNote/assets/89118231/2c838cb0-fe4d-49ad-a023-ad0ebd25b03f" width="900" Height="150"/>
 
 ***
 
