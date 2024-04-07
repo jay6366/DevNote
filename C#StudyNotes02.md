@@ -40,10 +40,12 @@
 - 확장메서드를 정의하기 위해 필요한 두가지 요소
   * 정적 클래스(Static class): 확장 메서드는 반드시 정적 클래스 내부에 정의되어야 함
   * 정적 메서드(Static method): 메서드 자체도 정적이어야 하며, 첫 번째 매개변수는 this 키워드와 함께 확장하고자 하는 타입을 명시해야 합니다. 이 this 매개변수는 확장 메서드가 적용될 타입을 정의합니다
-<img source="https://github.com/jay6366/DevNote/assets/89118231/9a1a9818-a134-42b2-b5e0-aad7d118779c"
- width="750" Height="700" text-align:center/>
+
+<img src="https://github.com/jay6366/DevNote/assets/89118231/802b2103-18a7-4f37-8888-c6f5093b922b"
+ width="700" Height="800" text-align:center/>
+
 
 - `예제 : 컬렉션에서 조건을 만족하는 항목 선택하기`
-<img source="https://github.com/jay6366/DevNote/assets/89118231/c8ef37ce-010d-486a-86d0-f1803e3f5735"
- width="750" Height="700" text-align:center/>
+<img src="https://github.com/jay6366/DevNote/assets/89118231/c8ef37ce-010d-486a-86d0-f1803e3f5735"
+ width="750" Height="900" text-align:center/>
 
