@@ -139,3 +139,31 @@
 
 ***
 
+***
+#### 값타입(Value Types) VS 참조타입(Reference Types)
+
+<img src="https://github.com/jay6366/DevNote/assets/89118231/cd8e57b8-828f-41ac-87aa-3300a3797c8d" width="700" Height="350"/>
+
+***
+
+***
+#### C# TypeCasting
+
+- C#에서 타입 캐스팅(Type Casting)은 한 데이터 타입의 값을 다른 데이터 타입으로 변환하는 것을 의미합니다.
+- 이는 값 타입끼리 변환할 때나, 참조 타입 간의 변환을 할 때 사용됩니다. 타입 캐스팅에는 두 가지 주요 방법이 있습니다.
+
+<img src="https://github.com/jay6366/DevNote/assets/89118231/09339d79-c677-4b01-806b-baa274fc84d1" width="600" Height="450"/>
+<img src="https://github.com/jay6366/DevNote/assets/89118231/f3fb5c4b-b4e2-4447-ac53-3f00d7b48162" width="600" Height="450"/>
+<img src="https://github.com/jay6366/DevNote/assets/89118231/1853e9bd-09c8-4ee7-9936-cb2d2132f479" width="600" Height="450"/>
+<img src="https://github.com/jay6366/DevNote/assets/89118231/4bb3b0e1-63de-42e6-956a-43b817e552ca" width="600" Height="450"/>
+
+***
+
+***
+#### InitializeComponent()
+
+<img src="https://github.com/jay6366/DevNote/assets/89118231/843c6ec3-6b78-4a22-9521-e1dda61bae5e" width="600" Height="450"/>
+<img src="https://github.com/jay6366/DevNote/assets/89118231/e330ccc2-bbb1-45a8-b45d-448368eecfec" width="600" Height="400"/>
+
+***
+
