@@ -127,7 +127,15 @@
 - C#에서는 switch case문 안에 if문을 삽입해 더 세부적인 조건을 설정하여 처리할 수 있음
 - 
 <img src="https://github.com/jay6366/DevNote/assets/89118231/c858d40c-1b99-4e19-842f-9547db7e1e30"
- width="750" Height="150" text-align:center/>
+ width="750" Height="600" text-align:center/>
+
+***
+
+***
+#### C# enum 타입
+
+- 명명규칙
+  * C# 식별자 명명규칙을 따름. 즉, 문자(letter)나 밑줄(_)로 시작해야하며, 특수문자('-','@','!'등)는 허용하지 않음
 
 ***
 
