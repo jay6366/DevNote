@@ -57,3 +57,11 @@
 
 ***
 
+#### Azure Compute 서비스 (Iaas의 대표격)
+
+#### 1. Azure Compute
+- Azure에서 Compute 작업을 하는 서비스로 Web Server를 운영하거나 Application Server를 운영시 사용하는 리소스
+- 기본적으로 Virtual Machine이 있으며 사용자가 직접 프로세스에 관여함
+- Azure Virtual Machine(운영체제 관리 필요), VM Scale Sets, App services(PaaS,소스파일만 업로드하면 됨), Functions
+
+***
